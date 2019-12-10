@@ -1,7 +1,7 @@
 # Numerical Computations in Python and Matlab
 
 ## Overview
-During my sophomore year at USC, I took MATH 458: Numerical Methods, a class in which we completed a series of projects in Python and Matlab that entailed significant numerical computations, error and data visualization, animations, and post-project write-ups. I've compiled them all here.
+During my sophomore year at USC, I took [MATH 458: Numerical Methods](https://classes.usc.edu/term-20193/course/math-458/), a class in which we completed a series of projects in Python and Matlab that entailed significant numerical computations, error and data visualization, animations, and post-project write-ups. I've compiled them all here.
 
 ## Projects
 ### Project 1: Error Visualization of Numerical Approximations of Roots of a Polynomial
